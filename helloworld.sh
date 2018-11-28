@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "Hello World!"
+var message="Hello World!"
+echo message
